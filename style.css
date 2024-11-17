@@ -3,18 +3,6 @@ body{
 	font-family: Lucida Console;
 }
 
-.img-container{
-		background-color: indianred;
-	    max-width: 800px;
-	    padding: 30px;
-	    max-height: 800px;
-	    border: 3px solid wheat;
-}
-
-img{
-	width: 150px;
-}
-
 .header {
   padding: 40px;
   text-align: center;
@@ -23,7 +11,7 @@ img{
   background-repeat: no-repeat;
   background-size: cover;
   color: steelblue;
-  font-family: Tahoma ;
+  font-family: Lucida Console ;
   font-size: 30px;
 
   table{
