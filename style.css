@@ -11,9 +11,5 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   color: steelblue;
-  font-family: Lucida Console ;
+  font-family: Lucida Console;
   font-size: 30px;
-
-  table{
-  	color: green;
-  }
